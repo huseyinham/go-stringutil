@@ -1,4 +1,4 @@
-package stringutil
+package gostringutil
 
 import "testing"
 
